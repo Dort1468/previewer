@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dort1468/previewer/static/css/main.d26dc63b.css",
+    "main.js": "/dort1468/previewer/static/js/main.defc63f7.js",
+    "index.html": "/dort1468/previewer/index.html",
+    "main.d26dc63b.css.map": "/dort1468/previewer/static/css/main.d26dc63b.css.map",
+    "main.defc63f7.js.map": "/dort1468/previewer/static/js/main.defc63f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d26dc63b.css",
+    "static/js/main.defc63f7.js"
+  ]
+}
