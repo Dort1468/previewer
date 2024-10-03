@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dort1468/previewer/static/css/main.d26dc63b.css",
-    "main.js": "/dort1468/previewer/static/js/main.defc63f7.js",
-    "index.html": "/dort1468/previewer/index.html",
-    "main.d26dc63b.css.map": "/dort1468/previewer/static/css/main.d26dc63b.css.map",
-    "main.defc63f7.js.map": "/dort1468/previewer/static/js/main.defc63f7.js.map"
+    "main.css": "/previewer/static/css/main.d26dc63b.css",
+    "main.js": "/previewer/static/js/main.defc63f7.js",
+    "index.html": "/previewer/index.html",
+    "main.d26dc63b.css.map": "/previewer/static/css/main.d26dc63b.css.map",
+    "main.defc63f7.js.map": "/previewer/static/js/main.defc63f7.js.map"
   },
   "entrypoints": [
     "static/css/main.d26dc63b.css",
